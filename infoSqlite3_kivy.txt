@@ -1,0 +1,17 @@
+
+Overview
+Forked https://github.com/yahyakesenek/sqlite3_kivy
+to https://github.com/DaleEMoore/sqlite3_kivy
+Displays users table (id, name)
+SAVE button creates new user with whatever's in the text box.
+NOT CRUD!
+
+TODO
+Evaluate database usage in kivy program. Looking for full CRDS example.
+python2
+
+
+
+Logs
+Mon 30 Oct 2017 6:08 PM CST
+Created
